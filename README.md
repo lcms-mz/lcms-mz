@@ -1,9 +1,9 @@
 ## Hi there 👋
-Uhh Hi guys :D
-Idk what to write here but glad I'm back :>
-I'm 23, like analysis from data to math, currently study master in Data Analytics.
-Currently working on functional analysis, complex networks, inverse problems and bayesian inference.
-Will continue fix this README as time goes on :D
+Uhh Hi guys :D  <br/>
+Idk what to write here but glad I'm back :> <br/>
+I'm 23, like analysis from data to math, currently study master in Data Analytics. <br/>
+Currently working on functional analysis, complex networks, inverse problems and bayesian inference. <br/>
+Will continue fix this README as time goes on :D 
 <!--
 **lcms-mz/lcms-mz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
